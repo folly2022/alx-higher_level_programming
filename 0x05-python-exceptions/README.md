@@ -13,3 +13,5 @@ In this project, I learnt:
 
 ## Resources
 [Edureka](https://www.youtube.com/watch?v=NMTEjQ8-AJMf )
+
+c/o Azeez Olarewaju Lawal.
