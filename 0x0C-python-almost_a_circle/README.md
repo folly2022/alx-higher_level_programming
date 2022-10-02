@@ -16,4 +16,6 @@ This project is a combination of all the concepts that I have learnt in python s
 - JSON
 
 # Resources 
-- 
+-
+
+Azeez Lawal.
