@@ -11,3 +11,5 @@ In this project folder, I learn about:
 -    What are subqueries
 -    What are JOIN and UNION
 
+
+Azeez Olarewaju Lawal.
