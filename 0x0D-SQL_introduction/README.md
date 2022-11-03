@@ -12,3 +12,5 @@ In this project, I learnt the following:
 - How to INSERT, UPDATE or DELETE data
 - What are subqueries
 - How to use MySQL functions
+
+Azeez Olarewaju Lawal.
